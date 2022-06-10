@@ -1,0 +1,5 @@
+1. Input to loginform
+2. Check field "Login"
+3. Check field "Password"
+4. Check button "Submite"
+5. Check statuscode.
