@@ -1,0 +1,9 @@
+  ID - Идентификационный номер,
+  Summary - Краткое описание дефекта,
+  Severity - Серьезность,
+  Preconditions - Предварительные условия,
+  Step to reproduce - Шаги воспроизведения,
+  Actual Result - Фактический результат,
+  Expected Result - Ожидаемый результат,
+  Environment - Окружение,
+  Attachment - Вложения.
